@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Hossam Mohamed! 👋
 
-<!--
-**HossamMohamed12/HossamMohamed12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python web scraper with expertise in web scraping, data extraction, and database management. I'm proficient in various tools and technologies including Selenium, Scrapy, MongoDB, MySQL, HTML, and CSS. I'm passionate about leveraging automation to extract valuable insights from the web.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python
+- **Web Scraping Tools**: Selenium, Scrapy, curl_cffi
+- **Databases**: MongoDB, MySQL
+- **Web Technologies**: HTML, CSS
+
+## Projects
+
+- [ Game Store Data Scraper ](link): This Python-based web scraping project automates the extraction of game data from popular online stores like Steam and Epic Games Store.
+- [Top IMDb Movies ](link): Utilizing the power of Python, this project presents a robust web scraping solution adept at gathering valuable data from diverse sources on the internet. Leveraging leading the scraping package Scrapy.
+
+
+
