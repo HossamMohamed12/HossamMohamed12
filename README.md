@@ -13,6 +13,11 @@ I'm a Python web scraper with expertise in web scraping, data extraction, and da
 
 - [ Game Store Data Scraper ](https://github.com/HossamMohamed12/Game-Store-Data-Scraper): This Python-based web scraping project automates the extraction of game data from popular online stores like Steam and Epic Games Store.
 - [Top IMDb Movies ](https://github.com/HossamMohamed12/Top-IMDb-Movies): Utilizing the power of Python, this project presents a robust web scraping solution adept at gathering valuable data from diverse sources on the internet. Leveraging leading the scraping package Scrapy.
+## Get in Touch
+
+- Email: 1hossam.mohamed2@gmail.com
+  
+Feel free to reach out if you'd like to collaborate on any projects or just want to connect!
 
 
 
